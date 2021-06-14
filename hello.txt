@@ -12,8 +12,10 @@ hello Git!!!
 hello Git!!!          121212121121
 hello Git!!!
 hello Git!!!                qqqqqqqqqqqqqqqqqqqqasd
+<<<<<<< HEAD
 git clone test!  
-woahsadasdasdas
-
-
+woahsadasdasdas-------------------------------------------222222222222222222222222222222222222222222222222222222222222222222222
 oneto adadasdasdadasdasdas
+=======
+git clone test!2222222222222222
+>>>>>>> c545404395c83e1f1287724c6d4d74d1c9686cf2
